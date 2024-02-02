@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    background-color: black;
+}
+.mybutton{
+    background-color: green;
+    padding: 15px;
+    border-radius: 10px;
+
+}
+.mybutton:hover{
+    background-color: yellow;
+}
